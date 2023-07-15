@@ -1,2 +1,2 @@
-# Loan-Prediction_sasi
-Loan Prediction_sasi_kumar_codeclause
+# Loan-Prediction_
+Loan Prediction_codeclause
